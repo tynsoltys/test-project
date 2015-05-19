@@ -1,4 +1,4 @@
 #test project
 
-This is a test project to see how git and Github work.
+Just putting some stuff on the internets.
 
